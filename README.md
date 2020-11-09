@@ -1,3 +1,11 @@
+# Link to LOOM recording:
+
+1st link:https://www.loom.com/share/4b7789561e93494aaf818e1f1f6d254e
+
+2nd link:https://www.loom.com/share/87cf92ba428444dab097f2ccbccbe415?sharedAppSource=personal_library
+
+
+
 
 
 The backend is actually on GCP.
